@@ -1,0 +1,24 @@
+{
+  "name": "js-popup-calculator",
+  "version": "1.0.0",
+  "description": "JavaScript popup calculator V1.0.0 Faruk Ahmed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPurno/js-popup-calculator.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Html",
+    "SPurno"
+  ],
+  "author": "Faruk Ahmed email <any_dj@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPurno/js-popup-calculator/issues"
+  },
+  "homepage": "https://github.com/SPurno/js-popup-calculator#readme"
+}
